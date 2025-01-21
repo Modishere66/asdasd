@@ -1,0 +1,6 @@
+numpy==1.21.2
+opencv-python==4.5.3.56
+open3d==0.13.0
+torch==1.10.0
+depthai==2.13.0.0
+tk
